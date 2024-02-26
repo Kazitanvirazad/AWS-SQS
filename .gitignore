@@ -13,6 +13,9 @@ target/
 *.iml
 *.ipr
 
+## AWS ##
+.aws-sam
+
 ### Eclipse ###
 .apt_generated
 .classpath
